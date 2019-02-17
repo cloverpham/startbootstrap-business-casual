@@ -5,7 +5,7 @@
  */
 
 body {
-  font-family: 'Lora';
+  font-family: 'Verdana';
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 23, 15, 0.65))), url("../img/bg.jpg");
   background: linear-gradient(rgba(47, 23, 15, 0.65)), url("../img/bg.jpg");
   background-attachment: fixed;
@@ -19,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Raleway';
+  font-family: 'Arial';
 }
 
 p {
@@ -35,7 +35,7 @@ p {
   margin-bottom: 5rem;
   text-transform: uppercase;
   line-height: 1;
-  font-family: 'Raleway';
+  font-family: 'Arial';
 }
 
 .site-heading .site-heading-upper {
